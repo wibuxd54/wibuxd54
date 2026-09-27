@@ -54,11 +54,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wibuxd54/wibuxd54/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wibuxd54/wibuxd54/output/pacman-contribution-graph.svg">
 </picture>
+</p>
 
-      _generated with [wibuxd54/pacman-contribution-graph](https://wibuxd54.github.io/pacman-contribution-graph/)_
-      
-  <img src="https://github.com/WibuXD54/wibuxd54/blob/1a0376f8f2142de4d6779a9759d47ddff0f8b067/hub/assets/svg/acrade-contributions.svg" />
-      
+<p align="right">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=wibuxd54&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
   </div>
